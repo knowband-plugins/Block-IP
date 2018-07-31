@@ -2,7 +2,7 @@
 
 Knowband offers the easy solution to ban the spam traffic to your Prestashop store. The user-friendly interface of this module allows the store admin to ban the IPs in simple steps. The free Prestashop block user addon allows the store admin to block the traffic based on the IP address. To use the advance blocking option store admin can purchase the paid version of the module which offers the option to block by country, block by user agent along with the options to display a message to the user that his IP has been blocked. If required users can send a message to the store admin to unblock his IP. Please refer to the link below to check the features of paid version:
 
-https://www.knowband.com/prestashop-block-bot-user-ip-country-user-agent](https://www.knowband.com/prestashop-block-bot-user-ip-country-user-agent)
+[https://www.knowband.com/prestashop-block-bot-user-ip-country-user-agent](https://www.knowband.com/prestashop-block-bot-user-ip-country-user-agent)
 
 
 ## How does the module work?
