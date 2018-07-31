@@ -1,0 +1,9 @@
+[{shop_url}] 
+
+Hi {admin_name},
+
+Customer {customer} added a new testimonial which is waiting for approval
+
+
+{shop_name} [{shop_url}] 
+

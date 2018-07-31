@@ -1,0 +1,156 @@
+.error_message {
+    color: red !important;
+    
+}
+.error_field {
+    border: 1px solid red !important;
+}
+/*.kb_custom_field_type {
+    display:none;
+}*/
+.kb_custom_field_form {
+    display:none;
+}
+
+/* CSS for Tabs */
+.kb_custom_tabs {
+    width: 100%;
+}
+
+.kb_custom_tabs a {
+    color: #555;
+}
+
+.kb_custom_tab {
+    width: 19.7%;
+}
+.kb_custom_tab_last {
+    width: 25%;
+}
+.kb_custom_panel {
+    position: relative;
+    border: solid 1px #d3d8db;
+    background-color: #fff;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.kb_custom_tab i {
+    padding-right: 5px; 
+}
+.kb_custom_tabs input[type='radio'] {
+    display: none;
+}
+.kb_custom_tabs a {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 15px;
+    font-weight: normal;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.kb_custom_tabs a:hover {
+    cursor: pointer;
+    color: #959595;
+    text-decoration: none;
+}
+.kb_custom_tabs a.kb_active {
+    background: #ff7c21;
+    color: #fff;
+    box-shadow: 0px 0px 10px #ff7c21;
+}
+
+.kb_custom_tabs a.kb_active::after {
+    content: "";
+    width: 0px;
+    height: 0px;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #ff7c21;
+    position: absolute;
+    bottom: -10px;
+    margin-left: -10px;
+}
+
+.kb_custom_tabs a.kb_active#kbcf_config_link::after {
+    left: 10%;
+}
+
+.kb_custom_tabs a.kb_active#kbcf_block_ip::after {
+    left: 30%;
+}
+
+.kb_custom_tabs a.kb_active#kbcf_block_country::after {
+    left: 50%;
+}
+.kb_custom_tabs a.kb_active#kbcf_block_agent::after {
+    left: 70%;
+}
+.kb_custom_tabs a.kb_active#kbcf_block_request::after {
+    left: 91%;
+}
+
+/* CSS for Tabs */
+
+.kbaddzone {
+    margin-left: 29px;
+}
+.kbcancelzone {
+    display: none;
+    margin-left: 29px;
+}
+#new_zone {
+    display: none;
+}
+#kb_shipping_import_submit_btn i {
+        display: block;
+    width: 30px;
+    height: 30px;
+    margin: 0 auto;
+    font-size: 28px;
+    background: transparent;
+    background-size: 26px;
+    background-position: center;
+}
+.vss_demo_block2 {
+width: 100%;
+height: auto;
+opacity: 1;
+}
+
+.vss_demo_block_hovered2 {
+cursor: not-allowed;
+opacity: 0.3;	
+}
+
+.vss_overlay_paid2 {
+    float: left; 
+   position: absolute;
+   width: 96.3%;
+   bottom: 139px;
+   text-align: center;
+   padding: 92px;
+   height: auto;
+   margin: 0.5%;
+   display: none;
+   background: rgba(85, 85, 85, 0.529412);
+}
+
+.vss_overlay_paid_text2 {
+font-size:18px;
+color:white;
+}
+
+.vss_free_version_button2 {
+   color: #FFF;
+   background: #f69c55;
+   padding: 7px 14px;
+   font-size: 13px;
+   text-align: center;
+}
+.vss_free_version_link2 {
+       padding: 4px;
+}
+.vss_free_version_link2:hover{
+text-decoration: none !important;
+}
