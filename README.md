@@ -16,5 +16,5 @@ Allows customers to give you a donation with Paypal service.
 * Retrieves the currency and the language of the user
 * Prefilled user's information if the user is logged in
 
-##Support or Contact
+## Support
 Having trouble with module? Contact us on https://www.knowband.com.
