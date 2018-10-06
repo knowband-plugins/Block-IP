@@ -1,23 +1,20 @@
-# Blocker - Block Bot/User by IP for Prestashop 1.6
+# Donation via Paypal Module for Prestashop v1.0.0
 
-The user-friendly interface of this module allows the store admin to ban the IPs in simple steps. The free Prestashop block user addon allows the store admin to block the traffic based on the IP address. To use the advance blocking option store admin can purchase the paid version of the module which offers the option to block by country, block by user agent along with the options to display a message to the user that his IP has been blocked. If required users can send a message to the store admin to unblock his IP.
+Allows customers to give you a donation with Paypal service.
 
-## How does the module work?
-Place your order for the free Prestashop block user module and add the module to the modules and Services section. From here admin can easily access the Block by IP interface.
+## Installation
+1. Check that the name of the folder in the zip is "donationpaypal".
+2. In prestashop, go to the modules tab and click on add a new module.
+3. Click on Browse to open the dialogue box letting you search your computer, select the Zip file then validate the dialogue box. 
+4. Finally click on Upload this module
 
-## Block by IP: 
-With the help of Prestashop spam blocker, the Prestashop store admin can enter the IP address that he suspects to be sending bots. The free Prestashop block user/bot by IP plugin allows blocking of maximum 20 IPs. To block more than 20 IPs you need to purchase the paid module.
+## Module key features
+* Avaliable for Prestashop 1.7
+* Translated into French, English and Spanish
+* Choose the item name or let the donor able to fill in the field paypal interface
+* If you have a custom page size, you can choose it
+* Retrieves the currency and the language of the user
+* Prefilled user's information if the user is logged in
 
-## Features of free Prestashop block user addon:
-* Free Prestashop block user/bot by IP plugin is easy to implement.
-* Free Prestashop block user module can be enabled/disabled easily just by a button toggle.
-* There is no need to change codes in back-end for applying this functionality.
-* The eCommerce store admin can enter the IP address of the customers for blocking them.
-
-## Merchant benefits:
-* The e-merchant can keep the website secured from spammers.
-* You can Get quality traffic by blocking the irrelevant users.
-* Protect your website store from harmful attacks by blocking the suspicious activities.
-* Different blocking options are provided which makes sure that the genuine customers will not suffer.
-* Customers can request to get back the access to the website.
-* The store admin can view request and provide them the access accordingly.
+##Support or Contact
+Having trouble with module? Contact us on https://www.knowband.com.

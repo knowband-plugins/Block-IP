@@ -1,8 +1,0 @@
-CREATE TABLE IF NOT EXISTS `_PREFIX_kb_block_user_ip` (
-    `id_block_ip` INT(11) UNSIGNED NOT NULL AUTO_INCREMENT ,
-    `ip` VARCHAR(80) NULL,
-    `active` TINYINT(1) UNSIGNED NOT NULL DEFAULT '1',
-    `date_add` DATETIME NOT NULL ,
-    `date_upd` DATETIME NULL ,
-    PRIMARY KEY (`id_block_ip`)
-) ENGINE=ENGINE_TYPE DEFAULT CHARSET=utf8;
