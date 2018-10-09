@@ -20,7 +20,6 @@ class donationpaypal extends Module
     public function __construct()
     {
         $this->bootstrap = true;
-
         $this->name = 'donationpaypal';
         $this->tab = 'payments_gateways';
         $this->version = '1.0.0';
@@ -32,7 +31,6 @@ class donationpaypal extends Module
 
         $this->displayName = $this->l('Donation Paypal');
         $this->description = $this->l('Allows customers to give you a donation with Paypal service.');
-
         $this->confirmUninstall = $this->l('Are you sure you want to delete your details ?');
 
         if (!Configuration::get('donationPaypal-business_id'))
@@ -47,7 +45,6 @@ class donationpaypal extends Module
         return (parent::install() &&
                 Configuration::updateValue('donationPaypal-page_style', 'paypal') &&
                 Configuration::updateValue('donationPaypal-display_message', 'Support our organization by donating with PayPal') &&
-                //Configuration::updateValue('donationPaypal-no_note', 0) &&
                 $this->registerHook('displayHeader') &&
                 $this->registerHook('displayFooter') &&
                 $this->registerHook('displayLeftColumn') &&
