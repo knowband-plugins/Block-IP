@@ -11,6 +11,4 @@
 <p><strong>{$moduleName} {$version}</strong></p>
 <p><strong>{$description}</strong></p>
 <p>{l s="Find more prestashop modules in our shop" mod='donationpaypal'} : <a target="_blank" href="https://www.knowband.com">www.knowband.com</a></p>
-
-
 </div>
